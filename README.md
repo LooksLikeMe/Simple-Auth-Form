@@ -2,6 +2,7 @@
 # Base sing in app
 =======
  > Base sign in application use mern stack Mongodb, Express, React, Nodejs
+ > * after registation and login we'll be able to recived simple page with quotes and feature to edit and save that 
 
 ![alt text](Screenshot1.png "screen")
 ![alt text](Screenshot2.png "screen")
